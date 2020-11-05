@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (3702331 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="1114809" visible="true" version="58" changeset="92698779" timestamp="2020-10-19T10:10:36Z" user="Sergey Astakhov" uid="143266">
+  <member type="way" ref="99214542" role="outer"/>
+  <member type="way" ref="689374704" role="outer"/>
+  <member type="way" ref="96826893" role="outer"/>
+  <member type="way" ref="689374705" role="outer"/>
+  <member type="way" ref="689374706" role="outer"/>
+  <member type="way" ref="689374700" role="outer"/>
+  <member type="way" ref="689374710" role="outer"/>
+  <member type="way" ref="689374709" role="outer"/>
+  <member type="way" ref="689374708" role="outer"/>
+  <member type="way" ref="689374711" role="outer"/>
+  <member type="way" ref="689374712" role="outer"/>
+  <member type="way" ref="689374713" role="outer"/>
+  <member type="way" ref="689374715" role="outer"/>
+  <member type="way" ref="584490218" role="outer"/>
+  <member type="way" ref="689374716" role="outer"/>
+  <member type="way" ref="689374717" role="outer"/>
+  <member type="way" ref="584490220" role="outer"/>
+  <member type="way" ref="689374718" role="outer"/>
+  <member type="way" ref="689374719" role="outer"/>
+  <member type="way" ref="413430741" role="outer"/>
+  <member type="way" ref="386592233" role="outer"/>
+  <member type="way" ref="71338518" role="outer"/>
+  <member type="way" ref="78255007" role="outer"/>
+  <member type="way" ref="45273655" role="outer"/>
+  <member type="way" ref="78017000" role="outer"/>
+  <member type="way" ref="384375282" role="outer"/>
+  <member type="way" ref="171175055" role="outer"/>
+  <member type="way" ref="153591062" role="outer"/>
+  <member type="way" ref="153591058" role="outer"/>
+  <member type="way" ref="171175059" role="outer"/>
+  <member type="way" ref="153592074" role="outer"/>
+  <member type="way" ref="123360952" role="outer"/>
+  <member type="way" ref="384375291" role="outer"/>
+  <member type="way" ref="459357302" role="outer"/>
+  <member type="way" ref="384375286" role="outer"/>
+  <member type="way" ref="153775722" role="outer"/>
+  <member type="way" ref="123360954" role="outer"/>
+  <member type="way" ref="230352518" role="outer"/>
+  <member type="way" ref="384375293" role="outer"/>
+  <member type="way" ref="384375280" role="outer"/>
+  <member type="way" ref="384375278" role="outer"/>
+  <member type="way" ref="78255008" role="outer"/>
+  <member type="way" ref="46219796" role="outer"/>
+  <member type="way" ref="687632460" role="outer"/>
+  <member type="way" ref="546816336" role="outer"/>
+  <member type="way" ref="546816339" role="outer"/>
+  <member type="way" ref="546816338" role="outer"/>
+  <member type="way" ref="566968802" role="outer"/>
+  <member type="way" ref="546816340" role="outer"/>
+  <member type="way" ref="687632465" role="outer"/>
+  <member type="way" ref="566968799" role="outer"/>
+  <member type="way" ref="23449132" role="outer"/>
+  <member type="way" ref="207169722" role="outer"/>
+  <member type="way" ref="46219798" role="outer"/>
+  <member type="way" ref="46219800" role="outer"/>
+  <member type="way" ref="46262873" role="outer"/>
+  <member type="way" ref="112170224" role="outer"/>
+  <member type="way" ref="78255009" role="outer"/>
+  <member type="way" ref="112170223" role="outer"/>
+  <member type="way" ref="516952643" role="outer"/>
+  <member type="way" ref="516952640" role="outer"/>
+  <member type="way" ref="516952635" role="outer"/>
+  <member type="way" ref="516952655" role="outer"/>
+  <member type="way" ref="516952621" role="outer"/>
+  <member type="way" ref="516952647" role="outer"/>
+  <member type="way" ref="516952651" role="outer"/>
+  <member type="way" ref="516952648" role="outer"/>
+  <member type="way" ref="71377151" role="outer"/>
+  <member type="way" ref="516952649" role="outer"/>
+  <member type="way" ref="516952653" role="outer"/>
+  <member type="way" ref="71377149" role="outer"/>
+  <member type="way" ref="255363583" role="outer"/>
+  <member type="way" ref="255363585" role="outer"/>
+  <member type="way" ref="35899015" role="outer"/>
+  <member type="way" ref="98429815" role="outer"/>
+  <member type="way" ref="35895979" role="outer"/>
+  <member type="way" ref="71340761" role="outer"/>
+  <member type="way" ref="537287816" role="outer"/>
+  <member type="way" ref="689376038" role="outer"/>
+  <member type="way" ref="30430222" role="outer"/>
+  <member type="way" ref="34305016" role="outer"/>
+  <member type="way" ref="591347103" role="outer"/>
+  <member type="way" ref="259998910" role="outer"/>
+  <member type="way" ref="71338523" role="outer"/>
+  <member type="way" ref="208578965" role="outer"/>
+  <member type="way" ref="71338510" role="outer"/>
+  <member type="way" ref="71338508" role="outer"/>
+  <member type="way" ref="30430850" role="outer"/>
+  <tag k="addr:region" v="Санкт-Петербург"/>
+  <tag k="admin_level" v="5"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="name" v="Кировский район"/>
+  <tag k="name:pl" v="rejon kirowski"/>
+  <tag k="type" v="boundary"/>
+  <tag k="url" v="http://www.gov.spb.ru/law?d&amp;nd=8414528&amp;nh=0&amp;header=010000006V00#I0"/>
+  <tag k="wikidata" v="Q219745"/>
+  <tag k="wikipedia" v="ru:Кировский район (Санкт-Петербург)"/>
+ </relation>
+</osm>

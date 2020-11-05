@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (3702339 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="338636" visible="true" version="63" changeset="91999374" timestamp="2020-10-05T17:10:53Z" user="SecretOfSence" uid="11687718">
+  <member type="way" ref="302444868" role="outer"/>
+  <member type="way" ref="530823443" role="outer"/>
+  <member type="way" ref="530823442" role="outer"/>
+  <member type="way" ref="45205314" role="outer"/>
+  <member type="way" ref="45205315" role="outer"/>
+  <member type="way" ref="119216672" role="outer"/>
+  <member type="way" ref="118692224" role="outer"/>
+  <member type="way" ref="45205339" role="outer"/>
+  <member type="way" ref="45205394" role="outer"/>
+  <member type="way" ref="45600792" role="outer"/>
+  <member type="way" ref="107097736" role="outer"/>
+  <member type="way" ref="107097706" role="outer"/>
+  <member type="way" ref="107097733" role="outer"/>
+  <member type="way" ref="750288331" role="outer"/>
+  <member type="way" ref="750288330" role="outer"/>
+  <member type="way" ref="622838319" role="outer"/>
+  <member type="way" ref="622838318" role="outer"/>
+  <member type="way" ref="107097734" role="outer"/>
+  <member type="way" ref="394394531" role="outer"/>
+  <member type="way" ref="394394537" role="outer"/>
+  <member type="way" ref="304567489" role="outer"/>
+  <member type="way" ref="394382134" role="outer"/>
+  <member type="way" ref="394382135" role="outer"/>
+  <member type="way" ref="78495080" role="outer"/>
+  <member type="way" ref="78335503" role="outer"/>
+  <member type="way" ref="79522198" role="outer"/>
+  <member type="way" ref="79522202" role="outer"/>
+  <member type="way" ref="79522193" role="outer"/>
+  <member type="way" ref="45273634" role="outer"/>
+  <member type="way" ref="264454722" role="outer"/>
+  <member type="way" ref="264454721" role="outer"/>
+  <member type="way" ref="159348605" role="outer"/>
+  <member type="way" ref="182611201" role="outer"/>
+  <member type="way" ref="321360968" role="outer"/>
+  <member type="way" ref="182611220" role="outer"/>
+  <member type="way" ref="37669206" role="outer"/>
+  <member type="way" ref="45205336" role="outer"/>
+  <member type="way" ref="162078652" role="outer"/>
+  <member type="way" ref="45205327" role="outer"/>
+  <member type="way" ref="170216383" role="outer"/>
+  <member type="way" ref="333976232" role="outer"/>
+  <member type="way" ref="33544662" role="outer"/>
+  <member type="way" ref="45205319" role="outer"/>
+  <member type="way" ref="754992973" role="outer"/>
+  <member type="way" ref="195535381" role="outer"/>
+  <member type="way" ref="754992972" role="outer"/>
+  <member type="way" ref="31378741" role="outer"/>
+  <member type="way" ref="71338500" role="outer"/>
+  <member type="way" ref="78255007" role="outer"/>
+  <member type="way" ref="45273655" role="outer"/>
+  <member type="way" ref="78017000" role="outer"/>
+  <member type="way" ref="384375282" role="outer"/>
+  <member type="way" ref="171175055" role="outer"/>
+  <member type="way" ref="153591062" role="outer"/>
+  <member type="way" ref="153591058" role="outer"/>
+  <member type="way" ref="171175059" role="outer"/>
+  <member type="way" ref="153592074" role="outer"/>
+  <member type="way" ref="123360952" role="outer"/>
+  <member type="way" ref="384375291" role="outer"/>
+  <member type="way" ref="459357302" role="outer"/>
+  <member type="way" ref="384375286" role="outer"/>
+  <member type="way" ref="153775722" role="outer"/>
+  <member type="way" ref="123360954" role="outer"/>
+  <member type="way" ref="230352518" role="outer"/>
+  <member type="way" ref="384375293" role="outer"/>
+  <member type="way" ref="384375280" role="outer"/>
+  <member type="way" ref="384375279" role="outer"/>
+  <member type="way" ref="384375292" role="outer"/>
+  <tag k="addr:country" v="RU"/>
+  <tag k="addr:region" v="Санкт-Петербург"/>
+  <tag k="admin_level" v="5"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="name" v="Московский район"/>
+  <tag k="name:de" v="Moskauer Rajon"/>
+  <tag k="name:pl" v="rejon moskiewski"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q270112"/>
+  <tag k="wikipedia" v="ru:Московский район (Санкт-Петербург)"/>
+ </relation>
+</osm>

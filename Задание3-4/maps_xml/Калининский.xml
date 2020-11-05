@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (3702341 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="1114806" visible="true" version="107" changeset="81669678" timestamp="2020-03-02T08:15:16Z" user="RusFox" uid="693356">
+  <member type="way" ref="37619788" role="outer"/>
+  <member type="way" ref="79570065" role="outer"/>
+  <member type="way" ref="71376485" role="outer"/>
+  <member type="way" ref="139759496" role="outer"/>
+  <member type="way" ref="362912050" role="outer"/>
+  <member type="way" ref="362912052" role="outer"/>
+  <member type="way" ref="78008236" role="outer"/>
+  <member type="way" ref="174964828" role="outer"/>
+  <member type="way" ref="71376491" role="outer"/>
+  <member type="way" ref="78008251" role="outer"/>
+  <member type="way" ref="121660149" role="outer"/>
+  <member type="way" ref="78008246" role="outer"/>
+  <member type="way" ref="71360123" role="outer"/>
+  <member type="way" ref="71360156" role="outer"/>
+  <member type="way" ref="77908165" role="outer"/>
+  <member type="way" ref="154217766" role="outer"/>
+  <member type="way" ref="135303475" role="outer"/>
+  <member type="way" ref="60995960" role="outer"/>
+  <member type="way" ref="31402895" role="outer"/>
+  <member type="way" ref="31379225" role="outer"/>
+  <member type="way" ref="73550879" role="outer"/>
+  <member type="way" ref="769650404" role="outer"/>
+  <member type="way" ref="769650408" role="outer"/>
+  <member type="way" ref="180860990" role="outer"/>
+  <member type="way" ref="356651753" role="outer"/>
+  <member type="way" ref="185485287" role="outer"/>
+  <member type="way" ref="246169883" role="outer"/>
+  <member type="way" ref="406778545" role="outer"/>
+  <member type="way" ref="172494436" role="outer"/>
+  <member type="way" ref="144833949" role="outer"/>
+  <member type="way" ref="474904829" role="outer"/>
+  <member type="way" ref="200394523" role="outer"/>
+  <member type="way" ref="776175415" role="outer"/>
+  <member type="way" ref="329343280" role="outer"/>
+  <member type="way" ref="190473740" role="outer"/>
+  <member type="way" ref="128178866" role="outer"/>
+  <member type="way" ref="293641222" role="outer"/>
+  <member type="way" ref="777650899" role="outer"/>
+  <member type="way" ref="156398314" role="outer"/>
+  <member type="way" ref="31366207" role="outer"/>
+  <member type="way" ref="172379147" role="outer"/>
+  <member type="way" ref="33065979" role="outer"/>
+  <tag k="addr:country" v="RU"/>
+  <tag k="addr:region" v="Санкт-Петербург"/>
+  <tag k="admin_level" v="5"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="name" v="Калининский район"/>
+  <tag k="name:pl" v="rejon kalininski"/>
+  <tag k="source" v="http://gov.spb.ru/law?d&amp;nd=8414528&amp;nh=1"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q1267403"/>
+  <tag k="wikipedia" v="ru:Калининский район (Санкт-Петербург)"/>
+ </relation>
+</osm>

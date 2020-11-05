@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (3702343 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="1114252" visible="true" version="28" changeset="88053525" timestamp="2020-07-15T23:09:01Z" user="Пивун" uid="8506183">
+  <member type="way" ref="816346775" role="outer"/>
+  <member type="way" ref="71959351" role="outer"/>
+  <member type="way" ref="362796529" role="outer"/>
+  <member type="way" ref="34348576" role="outer"/>
+  <member type="way" ref="34348577" role="outer"/>
+  <member type="way" ref="78518193" role="outer"/>
+  <member type="way" ref="72322204" role="outer"/>
+  <member type="way" ref="78518205" role="outer"/>
+  <member type="way" ref="72322196" role="outer"/>
+  <member type="way" ref="219158985" role="outer"/>
+  <member type="way" ref="219164137" role="outer"/>
+  <member type="way" ref="219164134" role="outer"/>
+  <member type="way" ref="219164128" role="outer"/>
+  <member type="way" ref="219164142" role="outer"/>
+  <member type="way" ref="120140680" role="outer"/>
+  <member type="way" ref="537286437" role="outer"/>
+  <member type="way" ref="120140682" role="outer"/>
+  <member type="way" ref="194296658" role="outer"/>
+  <member type="way" ref="194296661" role="outer"/>
+  <member type="way" ref="71340771" role="outer"/>
+  <member type="way" ref="98440160" role="outer"/>
+  <member type="way" ref="625833052" role="outer"/>
+  <member type="way" ref="625833042" role="outer"/>
+  <member type="way" ref="98440155" role="outer"/>
+  <member type="way" ref="72322161" role="outer"/>
+  <member type="way" ref="98330314" role="outer"/>
+  <member type="way" ref="71346364" role="outer"/>
+  <tag k="addr:country" v="RU"/>
+  <tag k="addr:region" v="Санкт-Петербург"/>
+  <tag k="admin_level" v="5"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="loc_name" v="Васька"/>
+  <tag k="name" v="Василеостровский район"/>
+  <tag k="name:pl" v="rejon wasileostrowski"/>
+  <tag k="name:ru" v="Василеостровский район"/>
+  <tag k="type" v="boundary"/>
+  <tag k="url" v="http://www.gov.spb.ru/law?d&amp;nd=8414528&amp;nh=0&amp;header=010000005G00#I0"/>
+  <tag k="wikidata" v="Q220622"/>
+  <tag k="wikipedia" v="ru:Василеостровский район"/>
+ </relation>
+</osm>

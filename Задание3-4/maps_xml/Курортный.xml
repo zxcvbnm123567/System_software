@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (3702335 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="1115366" visible="true" version="89" changeset="92476187" timestamp="2020-10-14T13:27:05Z" user="Peter_Otp" uid="11373580">
+  <member type="way" ref="172698817" role="outer"/>
+  <member type="way" ref="256354392" role="outer"/>
+  <member type="way" ref="256354390" role="outer"/>
+  <member type="way" ref="256354389" role="outer"/>
+  <member type="way" ref="284057956" role="outer"/>
+  <member type="way" ref="256354391" role="outer"/>
+  <member type="way" ref="256354383" role="outer"/>
+  <member type="way" ref="256354379" role="outer"/>
+  <member type="way" ref="256354388" role="outer"/>
+  <member type="way" ref="255676791" role="outer"/>
+  <member type="way" ref="71795733" role="outer"/>
+  <member type="way" ref="255005420" role="outer"/>
+  <member type="way" ref="492606592" role="outer"/>
+  <member type="way" ref="255005418" role="outer"/>
+  <member type="way" ref="137686097" role="outer"/>
+  <member type="way" ref="137686099" role="outer"/>
+  <member type="way" ref="255005422" role="outer"/>
+  <member type="way" ref="746817986" role="outer"/>
+  <member type="way" ref="71824178" role="outer"/>
+  <member type="way" ref="223505547" role="outer"/>
+  <member type="way" ref="48671377" role="outer"/>
+  <member type="way" ref="71824197" role="outer"/>
+  <member type="way" ref="180178495" role="outer"/>
+  <member type="way" ref="71824143" role="outer"/>
+  <member type="way" ref="71824144" role="outer"/>
+  <member type="way" ref="122923851" role="outer"/>
+  <member type="way" ref="25896275" role="outer"/>
+  <member type="way" ref="4584866" role="outer"/>
+  <member type="way" ref="4584867" role="outer"/>
+  <member type="way" ref="71824189" role="outer"/>
+  <member type="way" ref="4584868" role="outer"/>
+  <member type="way" ref="71795750" role="outer"/>
+  <member type="way" ref="4584869" role="outer"/>
+  <member type="way" ref="71591188" role="outer"/>
+  <member type="way" ref="224615923" role="outer"/>
+  <member type="way" ref="4584870" role="outer"/>
+  <member type="way" ref="224615924" role="outer"/>
+  <member type="way" ref="71589565" role="outer"/>
+  <member type="way" ref="88272454" role="outer"/>
+  <member type="way" ref="4584881" role="outer"/>
+  <member type="way" ref="224499664" role="outer"/>
+  <member type="way" ref="224499656" role="outer"/>
+  <member type="way" ref="88272447" role="outer"/>
+  <member type="way" ref="224614497" role="outer"/>
+  <member type="way" ref="71582696" role="outer"/>
+  <member type="way" ref="175478256" role="outer"/>
+  <member type="way" ref="4584882" role="outer"/>
+  <member type="way" ref="175478257" role="outer"/>
+  <member type="way" ref="71422211" role="outer"/>
+  <member type="way" ref="226443592" role="outer"/>
+  <member type="way" ref="175478253" role="outer"/>
+  <member type="way" ref="4584884" role="outer"/>
+  <member type="way" ref="199495213" role="outer"/>
+  <member type="way" ref="88729815" role="outer"/>
+  <member type="way" ref="199495210" role="outer"/>
+  <member type="way" ref="199495238" role="outer"/>
+  <member type="way" ref="199495211" role="outer"/>
+  <member type="way" ref="199495235" role="outer"/>
+  <member type="way" ref="856155671" role="outer"/>
+  <member type="way" ref="856155654" role="outer"/>
+  <member type="way" ref="856155651" role="outer"/>
+  <member type="way" ref="856155675" role="outer"/>
+  <member type="way" ref="856155660" role="outer"/>
+  <member type="way" ref="856155658" role="outer"/>
+  <member type="way" ref="86906831" role="outer"/>
+  <member type="way" ref="856169226" role="outer"/>
+  <member type="way" ref="199495268" role="outer"/>
+  <member type="way" ref="219151384" role="outer"/>
+  <member type="way" ref="219151383" role="outer"/>
+  <member type="way" ref="86256377" role="outer"/>
+  <member type="way" ref="86433997" role="outer"/>
+  <member type="way" ref="86433996" role="outer"/>
+  <member type="way" ref="86334511" role="outer"/>
+  <member type="way" ref="86431385" role="outer"/>
+  <member type="way" ref="224715394" role="outer"/>
+  <member type="way" ref="71408623" role="outer"/>
+  <member type="way" ref="8883747" role="outer"/>
+  <member type="way" ref="178769548" role="outer"/>
+  <member type="way" ref="71408626" role="outer"/>
+  <member type="way" ref="80240515" role="outer"/>
+  <member type="way" ref="137333560" role="outer"/>
+  <member type="way" ref="137333559" role="outer"/>
+  <member type="way" ref="71408633" role="outer"/>
+  <member type="way" ref="71408629" role="outer"/>
+  <member type="way" ref="77908156" role="outer"/>
+  <member type="way" ref="219153710" role="outer"/>
+  <member type="way" ref="219153709" role="outer"/>
+  <member type="way" ref="71422218" role="outer"/>
+  <member type="way" ref="68868453" role="outer"/>
+  <member type="way" ref="194445949" role="outer"/>
+  <member type="way" ref="194445960" role="outer"/>
+  <member type="way" ref="225889126" role="outer"/>
+  <member type="way" ref="449074060" role="outer"/>
+  <member type="way" ref="71360113" role="outer"/>
+  <member type="way" ref="71360181" role="outer"/>
+  <member type="way" ref="192501708" role="outer"/>
+  <member type="way" ref="71360174" role="outer"/>
+  <member type="way" ref="71360161" role="outer"/>
+  <member type="way" ref="219043022" role="outer"/>
+  <member type="way" ref="219039361" role="outer"/>
+  <member type="way" ref="219039359" role="outer"/>
+  <member type="way" ref="405794748" role="outer"/>
+  <member type="way" ref="219039357" role="outer"/>
+  <member type="way" ref="255395526" role="outer"/>
+  <member type="way" ref="71513605" role="outer"/>
+  <member type="way" ref="858917963" role="outer"/>
+  <member type="way" ref="858917964" role="outer"/>
+  <member type="way" ref="858672313" role="outer"/>
+  <member type="way" ref="110520457" role="outer"/>
+  <member type="way" ref="197668699" role="outer"/>
+  <member type="way" ref="197668703" role="outer"/>
+  <member type="way" ref="197668701" role="outer"/>
+  <member type="way" ref="4455156" role="outer"/>
+  <member type="way" ref="75847841" role="outer"/>
+  <member type="way" ref="71589568" role="outer"/>
+  <member type="way" ref="82624262" role="outer"/>
+  <member type="way" ref="103312832" role="outer"/>
+  <member type="way" ref="82624269" role="outer"/>
+  <member type="way" ref="82624265" role="outer"/>
+  <member type="way" ref="82624270" role="outer"/>
+  <member type="way" ref="237354075" role="outer"/>
+  <member type="way" ref="237354076" role="outer"/>
+  <member type="way" ref="256354377" role="outer"/>
+  <member type="way" ref="256354385" role="outer"/>
+  <member type="way" ref="148073412" role="outer"/>
+  <tag k="addr:country" v="RU"/>
+  <tag k="addr:region" v="Санкт-Петербург"/>
+  <tag k="admin_level" v="5"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="name" v="Курортный район"/>
+  <tag k="name:de" v="Rajon Kurort"/>
+  <tag k="name:en" v="Kurortny District"/>
+  <tag k="name:fi" v="Kurortin piiri"/>
+  <tag k="name:pl" v="rejon kurortny"/>
+  <tag k="name:ru" v="Курортный район"/>
+  <tag k="type" v="boundary"/>
+  <tag k="url" v="http://www.gov.spb.ru/law?d&amp;nd=8414528&amp;nh=0&amp;header=010000000R01#I0"/>
+  <tag k="wikidata" v="Q270402"/>
+  <tag k="wikipedia" v="ru:Курортный район (Санкт-Петербург)"/>
+ </relation>
+</osm>

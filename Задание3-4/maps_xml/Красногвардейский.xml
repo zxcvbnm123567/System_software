@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (4123379 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="1114895" visible="true" version="42" changeset="53605202" timestamp="2017-11-08T09:37:41Z" user="Pavel47" uid="472653">
+  <member type="way" ref="362912050" role="outer"/>
+  <member type="way" ref="139759496" role="outer"/>
+  <member type="way" ref="78334117" role="outer"/>
+  <member type="way" ref="79570059" role="outer"/>
+  <member type="way" ref="46835377" role="outer"/>
+  <member type="way" ref="46835378" role="outer"/>
+  <member type="way" ref="46835380" role="outer"/>
+  <member type="way" ref="46933969" role="outer"/>
+  <member type="way" ref="78334106" role="outer"/>
+  <member type="way" ref="88077010" role="outer"/>
+  <member type="way" ref="78334115" role="outer"/>
+  <member type="way" ref="211407449" role="outer"/>
+  <member type="way" ref="84476685" role="outer"/>
+  <member type="way" ref="211407436" role="outer"/>
+  <member type="way" ref="174954911" role="outer"/>
+  <member type="way" ref="88076891" role="outer"/>
+  <member type="way" ref="133743625" role="outer"/>
+  <member type="way" ref="195400663" role="outer"/>
+  <member type="way" ref="195400671" role="outer"/>
+  <member type="way" ref="195400760" role="outer"/>
+  <member type="way" ref="195400675" role="outer"/>
+  <member type="way" ref="195400699" role="outer"/>
+  <member type="way" ref="195400685" role="outer"/>
+  <member type="way" ref="195400727" role="outer"/>
+  <member type="way" ref="195400695" role="outer"/>
+  <member type="way" ref="133743627" role="outer"/>
+  <member type="way" ref="133743596" role="outer"/>
+  <member type="way" ref="133743623" role="outer"/>
+  <member type="way" ref="133743621" role="outer"/>
+  <member type="way" ref="133743593" role="outer"/>
+  <member type="way" ref="134127137" role="outer"/>
+  <member type="way" ref="121039921" role="outer"/>
+  <member type="way" ref="539191419" role="outer"/>
+  <member type="way" ref="134127094" role="outer"/>
+  <member type="way" ref="153372033" role="outer"/>
+  <member type="way" ref="71376492" role="outer"/>
+  <member type="way" ref="539191426" role="outer"/>
+  <member type="way" ref="71376491" role="outer"/>
+  <member type="way" ref="174964828" role="outer"/>
+  <member type="way" ref="78008236" role="outer"/>
+  <member type="way" ref="362912052" role="outer"/>
+  <tag k="addr:country" v="RU"/>
+  <tag k="addr:region" v="Санкт-Петербург"/>
+  <tag k="admin_level" v="5"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="name" v="Красногвардейский район"/>
+  <tag k="name:pl" v="rejon krasnogwardiejski"/>
+  <tag k="source" v="http://gov.spb.ru/law?d&amp;nd=8414528&amp;nh=1"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q1142579"/>
+  <tag k="wikipedia" v="ru:Красногвардейский район (Санкт-Петербург)"/>
+ </relation>
+</osm>

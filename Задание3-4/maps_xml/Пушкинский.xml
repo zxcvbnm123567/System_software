@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (3702338 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="338635" visible="true" version="55" changeset="77653305" timestamp="2019-11-27T21:10:51Z" user="fdjrgio" uid="5459104">
+  <member type="way" ref="225114697" role="outer"/>
+  <member type="way" ref="45205394" role="outer"/>
+  <member type="way" ref="45600792" role="outer"/>
+  <member type="way" ref="107097736" role="outer"/>
+  <member type="way" ref="107097706" role="outer"/>
+  <member type="way" ref="107097733" role="outer"/>
+  <member type="way" ref="750288331" role="outer"/>
+  <member type="way" ref="750288330" role="outer"/>
+  <member type="way" ref="622838319" role="outer"/>
+  <member type="way" ref="622838318" role="outer"/>
+  <member type="way" ref="107097734" role="outer"/>
+  <member type="way" ref="394394531" role="outer"/>
+  <member type="way" ref="394394537" role="outer"/>
+  <member type="way" ref="304567489" role="outer"/>
+  <member type="way" ref="394382134" role="outer"/>
+  <member type="way" ref="394382135" role="outer"/>
+  <member type="way" ref="78495080" role="outer"/>
+  <member type="way" ref="78335503" role="outer"/>
+  <member type="way" ref="45205338" role="outer"/>
+  <member type="way" ref="79522199" role="outer"/>
+  <member type="way" ref="79522192" role="outer"/>
+  <member type="way" ref="45094293" role="outer"/>
+  <member type="way" ref="45094300" role="outer"/>
+  <member type="way" ref="483499625" role="outer"/>
+  <member type="way" ref="483499626" role="outer"/>
+  <member type="way" ref="37436494" role="outer"/>
+  <member type="way" ref="447953599" role="outer"/>
+  <member type="way" ref="402163692" role="outer"/>
+  <member type="way" ref="402163690" role="outer"/>
+  <member type="way" ref="37436625" role="outer"/>
+  <member type="way" ref="45094304" role="outer"/>
+  <member type="way" ref="469619361" role="outer"/>
+  <member type="way" ref="107610691" role="outer"/>
+  <member type="way" ref="45094306" role="outer"/>
+  <member type="way" ref="45094302" role="outer"/>
+  <member type="way" ref="110533027" role="outer"/>
+  <member type="way" ref="155045026" role="outer"/>
+  <member type="way" ref="393621467" role="outer"/>
+  <member type="way" ref="393621470" role="outer"/>
+  <member type="way" ref="393621466" role="outer"/>
+  <member type="way" ref="155045018" role="outer"/>
+  <member type="way" ref="307679594" role="outer"/>
+  <member type="way" ref="307679597" role="outer"/>
+  <member type="way" ref="308024258" role="outer"/>
+  <member type="way" ref="96849575" role="outer"/>
+  <member type="way" ref="96849576" role="outer"/>
+  <member type="way" ref="87297376" role="outer"/>
+  <member type="way" ref="45885987" role="outer"/>
+  <member type="way" ref="120171398" role="outer"/>
+  <member type="way" ref="48647614" role="outer"/>
+  <member type="way" ref="225114693" role="outer"/>
+  <tag k="addr:country" v="RU"/>
+  <tag k="addr:region" v="Санкт-Петербург"/>
+  <tag k="admin_level" v="5"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="name" v="Пушкинский район"/>
+  <tag k="name:pl" v="rejon puszkinski"/>
+  <tag k="ref" v="40 294 501"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q220316"/>
+  <tag k="wikipedia" v="ru:Пушкинский район (Санкт-Петербург)"/>
+ </relation>
+</osm>

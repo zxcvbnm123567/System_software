@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (3702326 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="367375" visible="true" version="55" changeset="92671279" timestamp="2020-10-18T22:36:44Z" user="Garmin-User" uid="177389">
+  <member type="way" ref="46737037" role="outer"/>
+  <member type="way" ref="127394457" role="outer"/>
+  <member type="way" ref="127394459" role="outer"/>
+  <member type="way" ref="288487219" role="outer"/>
+  <member type="way" ref="4585185" role="outer"/>
+  <member type="way" ref="4585164" role="outer"/>
+  <member type="way" ref="46737039" role="outer"/>
+  <member type="way" ref="95658750" role="outer"/>
+  <member type="way" ref="223709557" role="outer"/>
+  <member type="way" ref="4585266" role="outer"/>
+  <member type="way" ref="242962182" role="outer"/>
+  <member type="way" ref="288487196" role="outer"/>
+  <member type="way" ref="288487203" role="outer"/>
+  <member type="way" ref="288487184" role="outer"/>
+  <member type="way" ref="288487185" role="outer"/>
+  <member type="way" ref="288487174" role="outer"/>
+  <member type="way" ref="288487206" role="outer"/>
+  <member type="way" ref="288487191" role="outer"/>
+  <member type="way" ref="288487172" role="outer"/>
+  <member type="way" ref="288487158" role="outer"/>
+  <member type="way" ref="288487194" role="outer"/>
+  <member type="way" ref="288487212" role="outer"/>
+  <member type="way" ref="288487224" role="outer"/>
+  <member type="way" ref="288487187" role="outer"/>
+  <member type="way" ref="288487217" role="outer"/>
+  <member type="way" ref="112519288" role="outer"/>
+  <member type="way" ref="4585264" role="outer"/>
+  <member type="way" ref="112519284" role="outer"/>
+  <member type="way" ref="148712534" role="outer"/>
+  <member type="way" ref="294442978" role="outer"/>
+  <member type="way" ref="294442998" role="outer"/>
+  <member type="way" ref="294442997" role="outer"/>
+  <member type="way" ref="294442989" role="outer"/>
+  <member type="way" ref="294442991" role="outer"/>
+  <member type="way" ref="294442990" role="outer"/>
+  <member type="way" ref="294442986" role="outer"/>
+  <member type="way" ref="294442958" role="outer"/>
+  <member type="way" ref="294442975" role="outer"/>
+  <member type="way" ref="294443000" role="outer"/>
+  <member type="way" ref="294442994" role="outer"/>
+  <member type="way" ref="294442971" role="outer"/>
+  <member type="way" ref="294442968" role="outer"/>
+  <member type="way" ref="294442996" role="outer"/>
+  <member type="way" ref="28348069" role="outer"/>
+  <member type="way" ref="4585262" role="outer"/>
+  <member type="way" ref="225771651" role="outer"/>
+  <member type="way" ref="46219785" role="outer"/>
+  <member type="way" ref="31366985" role="outer"/>
+  <member type="way" ref="138282855" role="outer"/>
+  <member type="way" ref="177909860" role="outer"/>
+  <member type="way" ref="119140704" role="outer"/>
+  <member type="way" ref="119140703" role="outer"/>
+  <member type="way" ref="365392517" role="outer"/>
+  <member type="way" ref="46219795" role="outer"/>
+  <member type="way" ref="119145171" role="outer"/>
+  <member type="way" ref="172113715" role="outer"/>
+  <member type="way" ref="172113714" role="outer"/>
+  <member type="way" ref="311028511" role="outer"/>
+  <member type="way" ref="311028510" role="outer"/>
+  <member type="way" ref="78442619" role="outer"/>
+  <member type="way" ref="46219793" role="outer"/>
+  <member type="way" ref="86226474" role="outer"/>
+  <member type="way" ref="111595663" role="outer"/>
+  <member type="way" ref="86226475" role="outer"/>
+  <member type="way" ref="46737028" role="outer"/>
+  <member type="way" ref="218847212" role="outer"/>
+  <member type="way" ref="219149531" role="outer"/>
+  <member type="way" ref="218847211" role="outer"/>
+  <member type="way" ref="218847213" role="outer"/>
+  <member type="way" ref="111567967" role="outer"/>
+  <member type="way" ref="218983071" role="outer"/>
+  <member type="way" ref="218983070" role="outer"/>
+  <member type="way" ref="148712544" role="outer"/>
+  <member type="way" ref="111567976" role="outer"/>
+  <member type="way" ref="119498221" role="outer"/>
+  <member type="way" ref="122103896" role="outer"/>
+  <member type="way" ref="122103892" role="outer"/>
+  <member type="way" ref="700922772" role="outer"/>
+  <member type="way" ref="122103885" role="outer"/>
+  <member type="way" ref="122103894" role="outer"/>
+  <member type="way" ref="688935447" role="outer"/>
+  <member type="way" ref="122103886" role="outer"/>
+  <tag k="addr:country" v="RU"/>
+  <tag k="addr:region" v="Санкт-Петербург"/>
+  <tag k="admin_level" v="5"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="name" v="Петродворцовый район"/>
+  <tag k="name:de" v="Rajon Petrodworez"/>
+  <tag k="name:pl" v="rejon pietrodworcowy"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q270114"/>
+  <tag k="wikipedia" v="ru:Петродворцовый район"/>
+ </relation>
+</osm>

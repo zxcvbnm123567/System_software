@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (3702341 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="337424" visible="true" version="32" changeset="50347061" timestamp="2017-07-17T10:55:39Z" user="MosKartograf" uid="382604">
+  <member type="way" ref="110533019" role="outer"/>
+  <member type="way" ref="72738428" role="outer"/>
+  <member type="way" ref="72843683" role="outer"/>
+  <member type="way" ref="72843682" role="outer"/>
+  <member type="way" ref="45094303" role="outer"/>
+  <member type="way" ref="46876347" role="outer"/>
+  <member type="way" ref="72738433" role="outer"/>
+  <member type="way" ref="508157668" role="outer"/>
+  <member type="way" ref="508157667" role="outer"/>
+  <member type="way" ref="46876345" role="outer"/>
+  <member type="way" ref="45126123" role="outer"/>
+  <member type="way" ref="45126120" role="outer"/>
+  <member type="way" ref="45126119" role="outer"/>
+  <member type="way" ref="45126122" role="outer"/>
+  <member type="way" ref="45126117" role="outer"/>
+  <member type="way" ref="45126116" role="outer"/>
+  <member type="way" ref="201222188" role="outer"/>
+  <member type="way" ref="23414484" role="outer"/>
+  <member type="way" ref="309154574" role="outer"/>
+  <member type="way" ref="407702350" role="outer"/>
+  <member type="way" ref="309154573" role="outer"/>
+  <member type="way" ref="309154577" role="outer"/>
+  <member type="way" ref="45126115" role="outer"/>
+  <member type="way" ref="46835384" role="outer"/>
+  <member type="way" ref="45205337" role="outer"/>
+  <member type="way" ref="45094293" role="outer"/>
+  <member type="way" ref="45094300" role="outer"/>
+  <member type="way" ref="483499625" role="outer"/>
+  <member type="way" ref="483499626" role="outer"/>
+  <member type="way" ref="37436494" role="outer"/>
+  <member type="way" ref="447953599" role="outer"/>
+  <member type="way" ref="402163692" role="outer"/>
+  <member type="way" ref="402163690" role="outer"/>
+  <member type="way" ref="37436625" role="outer"/>
+  <member type="way" ref="45094304" role="outer"/>
+  <member type="way" ref="469619361" role="outer"/>
+  <member type="way" ref="107610691" role="outer"/>
+  <member type="way" ref="45094306" role="outer"/>
+  <member type="way" ref="149876086" role="outer"/>
+  <member type="way" ref="149876087" role="outer"/>
+  <member type="way" ref="110533021" role="outer"/>
+  <tag k="addr:country" v="RU"/>
+  <tag k="addr:region" v="Санкт-Петербург"/>
+  <tag k="admin_level" v="5"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="name" v="Колпинский район"/>
+  <tag k="name:pl" v="rejon kołpinski"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q1326302"/>
+  <tag k="wikipedia" v="ru:Колпинский район"/>
+ </relation>
+</osm>

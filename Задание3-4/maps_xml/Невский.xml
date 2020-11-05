@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (3702343 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="368287" visible="true" version="36" changeset="51677110" timestamp="2017-09-02T18:45:44Z" user="beweta" uid="152074">
+  <member type="way" ref="46835387" role="outer"/>
+  <member type="way" ref="78334106" role="outer"/>
+  <member type="way" ref="46933969" role="outer"/>
+  <member type="way" ref="46835380" role="outer"/>
+  <member type="way" ref="46835378" role="outer"/>
+  <member type="way" ref="27755091" role="outer"/>
+  <member type="way" ref="46835375" role="outer"/>
+  <member type="way" ref="79522204" role="outer"/>
+  <member type="way" ref="79522201" role="outer"/>
+  <member type="way" ref="46896188" role="outer"/>
+  <member type="way" ref="46896180" role="outer"/>
+  <member type="way" ref="46835385" role="outer"/>
+  <member type="way" ref="46835384" role="outer"/>
+  <member type="way" ref="45126115" role="outer"/>
+  <member type="way" ref="309154577" role="outer"/>
+  <member type="way" ref="309154573" role="outer"/>
+  <member type="way" ref="407702350" role="outer"/>
+  <member type="way" ref="309154574" role="outer"/>
+  <member type="way" ref="23414484" role="outer"/>
+  <member type="way" ref="201222188" role="outer"/>
+  <member type="way" ref="45126116" role="outer"/>
+  <member type="way" ref="45126117" role="outer"/>
+  <member type="way" ref="45126122" role="outer"/>
+  <member type="way" ref="45126119" role="outer"/>
+  <member type="way" ref="45126120" role="outer"/>
+  <member type="way" ref="45126123" role="outer"/>
+  <member type="way" ref="172291856" role="outer"/>
+  <member type="way" ref="190767163" role="outer"/>
+  <member type="way" ref="121714539" role="outer"/>
+  <member type="way" ref="121714558" role="outer"/>
+  <member type="way" ref="111572199" role="outer"/>
+  <member type="way" ref="46896170" role="outer"/>
+  <member type="way" ref="46896163" role="outer"/>
+  <member type="way" ref="46933962" role="outer"/>
+  <member type="way" ref="155715677" role="outer"/>
+  <tag k="addr:country" v="RU"/>
+  <tag k="addr:region" v="Санкт-Петербург"/>
+  <tag k="admin_level" v="5"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="name" v="Невский район"/>
+  <tag k="name:en" v="Nevsky District"/>
+  <tag k="name:pl" v="rejon niewski"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q1193156"/>
+  <tag k="wikipedia" v="ru:Невский район"/>
+ </relation>
+</osm>
